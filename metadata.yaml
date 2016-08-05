@@ -1,0 +1,34 @@
+_repo: Welsh-Fairy-Tales-and-Other-Stories_8675
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Emerson, P. H. (Peter Henry)
+    alias: Emerson, Peter Henry
+    birthdate: 1856
+    deathdate: 1936
+    gutenberg_agent_id: '2844'
+    url: http://www.gutenberg.org/2009/agents/2844
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Wales'
+- !lcsh 'Tales -- Wales'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: The fairies of caragonan -- The craig-y-don blacksmith -- Old Gwilym
+  -- The baby-farmer -- The old man and the fairies -- Tommy Pritchard -- Kaddy's
+  luck -- The story of Gelert -- Origin of the Welsh -- The crows -- Roberts and the
+  fairies -- The fairy of the dell -- Ellen's luck -- The fairies' mint -- The Pellings
+  -- The long-lived ancestors -- The giantess's apron-full -- A fable -- The story
+  of the pig-trough -- Billy Duffy and the devil -- John O' Groats -- Eva's luck --
+  The fishermen of Shetland -- The pastor's nurse.
+title: Welsh Fairy-Tales and Other Stories
+url: http://www.gutenberg.org/ebooks/8675
